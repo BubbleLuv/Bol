@@ -21,7 +21,7 @@ function OnTick()
 end
 
 function orbwalk()
-	if not Config.combo then return end
+	if not Config.combo then
 	if ts.target ~=	nil then		
 		if CanShoot() then
 			myHero:Attack(ts.target)
