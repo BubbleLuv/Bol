@@ -1,3 +1,17 @@
+╔══╗───╔╗─╔╗─╔╗───╔╗─────────╔═══╦╗
+║╔╗║───║║─║║─║║───║║─────────║╔═╗║║
+║╚╝╚╦╗╔╣╚═╣╚═╣║╔══╣║──╔╗╔╦╗╔╗║║─║║╚═╦═╦╗
+║╔═╗║║║║╔╗║╔╗║║║║═╣║─╔╣║║║╚╝║║╚═╝║╔╗║╔╬╣
+║╚═╝║╚╝║╚╝║╚╝║╚╣║═╣╚═╝║╚╝╠╗╔╝║╔═╗║║║║║║║
+╚═══╩══╩══╩══╩═╩══╩═══╩══╝╚╝─╚╝─╚╩╝╚╩╝╚╝
+╔═╗─╔╗────────╔╗────────╔╗
+║║╚╗║║────────║║────────║║
+║╔╗╚╝╠══╦══╦══╣║╔══╦══╦═╝╠══╦═╗
+║║╚╗║║╔╗║╔╗║╔═╣║║╔╗║╔╗║╔╗║║═╣╔╝
+║║─║║║╚╝║╚╝║╚═╣╚╣╚╝║╔╗║╚╝║║═╣║
+╚╝─╚═╩═╗╠══╩══╩═╩══╩╝╚╩══╩══╩╝
+─────╔═╝║
+─────╚══╝
 if myHero.charName ~= "Ahri" then return end
 _G.NoBugSplat = true --set this to false if you get a bugsplat or you freeze during "Validating"
 load(Base64Decode("G0x1YVIAAQQEBAgAGZMNChoKAAAAAAAAAAAAAQIEAAAABgBAAGUAAAAKQICAHwCAAAIAAAAEAwAAAF9HAAQLAAAATmdvY0JlQm9uZwABAAAAAQAAAAEAAAACAAgMAAAAhgBAAMZAQAAGgUAAQAEAAB2BAAFEAQAAgcEAAMABgADdAIACnYAAAJ1AgAAfAIAABAAAAAQHAAAAYXNzZXJ0AAQFAAAAbG9hZAAEDQAAAEJhc2U2NERlY29kZQAEAwAAAGJ0AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAA=="), nil, "b", _ENV)()
