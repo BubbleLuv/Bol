@@ -1,17 +1,3 @@
-╔══╗───╔╗─╔╗─╔╗───╔╗─────────╔╗╔═╗──╔╗────╔╗────╔╗
-║╔╗║───║║─║║─║║───║║─────────║║║╔╝──║║───╔╝╚╗───║║
-║╚╝╚╦╗╔╣╚═╣╚═╣║╔══╣║──╔╗╔╦╗╔╗║╚╝╝╔══╣║╔╦═╩╗╔╬══╗║║
-║╔═╗║║║║╔╗║╔╗║║║║═╣║─╔╣║║║╚╝║║╔╗║║╔╗║║╠╣══╣║║╔╗║╚╝
-║╚═╝║╚╝║╚╝║╚╝║╚╣║═╣╚═╝║╚╝╠╗╔╝║║║╚╣╔╗║╚╣╠══║╚╣╔╗║╔╗
-╚═══╩══╩══╩══╩═╩══╩═══╩══╝╚╝─╚╝╚═╩╝╚╩═╩╩══╩═╩╝╚╝╚╝
-╔═╗─╔╗────────╔╗──────────╔╗─────╔╗
-║║╚╗║║────────║║──────────║║─────║║
-║╔╗╚╝╠══╦══╦══╣║──╔══╦══╦═╝╠══╦═╗║║
-║║╚╗║║╔╗║╔╗║╔═╣║─╔╣╔╗║╔╗║╔╗║║═╣╔╝╚╝
-║║─║║║╚╝║╚╝║╚═╣╚═╝║╚╝║╔╗║╚╝║║═╣║─╔╗
-╚╝─╚═╩═╗╠══╩══╩═══╩══╩╝╚╩══╩══╩╝─╚╝
-─────╔═╝║
-─────╚══╝
 
 if myHero.charName ~= "Kalista" then return end
 load(Base64Decode("G0x1YVIAAQQEBAgAGZMNChoKAAAAAAAAAAAAAQIEAAAABgBAAGUAAAAKQICAHwCAAAIAAAAEAwAAAF9HAAQLAAAATmdvY0JlQm9uZwABAAAAAQAAAAEAAAACAAgMAAAAhgBAAMZAQAAGgUAAQAEAAB2BAAFEAQAAgcEAAMABgADdAIACnYAAAJ1AgAAfAIAABAAAAAQHAAAAYXNzZXJ0AAQFAAAAbG9hZAAEDQAAAEJhc2U2NERlY29kZQAEAwAAAGJ0AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAA=="), nil, "b", _ENV)()
