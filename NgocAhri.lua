@@ -1,3 +1,20 @@
+--[[
+╔══╗───╔╗─╔╗─╔╗───╔╗─────────╔═══╗────────╔╗─╔╗
+║╔╗║───║║─║║─║║───║║─────────║╔═╗║───────╔╝╚╗║║
+║╚╝╚╦╗╔╣╚═╣╚═╣║╔══╣║──╔╗╔╦╗╔╗║╚══╦══╦═╦╦═╩╗╔╝║║
+║╔═╗║║║║╔╗║╔╗║║║║═╣║─╔╣║║║╚╝║╚══╗║╔═╣╔╬╣╔╗║║─╚╝
+║╚═╝║╚╝║╚╝║╚╝║╚╣║═╣╚═╝║╚╝╠╗╔╝║╚═╝║╚═╣║║║╚╝║╚╗╔╗
+╚═══╩══╩══╩══╩═╩══╩═══╩══╝╚╝─╚═══╩══╩╝╚╣╔═╩═╝╚╝
+───────────────────────────────────────║║
+───────────────────────────────────────╚╝
+	Credit to BubbleLuv
+	Update Link :
+	Script Manager Download : http://upfile.vn/IdGQZ5BCZVXt/script-manager-rar.html
+	
+
+		
+]]
+
 if myHero.charName ~= "Ahri" then return end
 _G.AhriScriptName = _ENV.FILE_NAME
 _G.NoBugSplat = true --set this to false if you get a bugsplat or you freeze during "Validating"
