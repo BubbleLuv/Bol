@@ -8,8 +8,14 @@
 ───────────────────────────────────────║║
 ───────────────────────────────────────╚╝
 	Credit to BubbleLuv
-	Update Script Link : https://raw.githubusercontent.com/BubbleLuv/Bol/master/NgocAhri.lua
+	Update Script Link      : https://raw.githubusercontent.com/BubbleLuv/Bol/master/NgocAhri.lua
 	Script Manager Download : http://upfile.vn/IdGQZ5BCZVXt/script-manager-rar.html
+	                        : http://gamesupport.vn/threads/tool-script-manager-edit.26419
+	Changelog               : https://raw.githubusercontent.com/Feez/BoL-Paid/master/ahri.changelog
+	                        
+	                                  Ahri Sexy Mistress Version      2,42     
+	                                  Crack & encode by BubbleLuv
+	                                  Fix + Buff Garena sever by Tungkh1711
 	
 
 		
