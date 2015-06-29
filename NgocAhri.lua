@@ -8,7 +8,7 @@
 ───────────────────────────────────────║║
 ───────────────────────────────────────╚╝
 	Credit to BubbleLuv
-	Update Link :
+	Update Script Link : https://raw.githubusercontent.com/BubbleLuv/Bol/master/NgocAhri.lua
 	Script Manager Download : http://upfile.vn/IdGQZ5BCZVXt/script-manager-rar.html
 	
 
