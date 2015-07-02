@@ -1,0 +1,29 @@
+require "Tuanmarrie"
+if myHero.charName ~= "Tuanmarrie" or NOT_VIPGS then return end
+
+function OnLoad()
+	PrintChat("<font color=\"#FFFF00\">Script người hầu tuấn marrie <font color=\"#FF0000\">Beta")
+	Menu()
+end
+
+function Menu()
+	Config = scriptConfig("Người hầu tuấn", "tsida")
+
+	Config:addSubMenu("Combo Settings", "combo")
+		Config.combo:addParam("Dọn cơm", "Use Q", SCRIPT_PARAM_ONKEYDOWN, false, string.byte(" "))
+			Config.combo:addParam("quét nhà", "Use W", SCRIPT_PARAM_ONKEYDOWN, false, string.byte(" "))
+	SxOrb:LoadToMenu()
+end
+
+function OnProcessSpell(unit, spell)
+	if unit.isMe and spell.name:lower():find("attack") and (Config.combo.fullcombo) then
+		SpellTarget = spell.target
+		if SpellTarget.type == myHero.type then
+		DelayAction(function() CastSpell(_Q, mousePos.x, mousePos.z) end, spell.windUpTime - GetLatency() / 2000)
+		end
+	end
+end
+
+function OnTick()
+	ts:update()
+end
