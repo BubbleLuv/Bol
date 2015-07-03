@@ -12,7 +12,7 @@
 	Script Manager Download : http://upfile.vn/IdGQZ5BCZVXt/script-manager-rar.html
 	                        : http://gamesupport.vn/threads/tool-script-manager-edit.26419
 	                        
-                                    Forbidden Script (Bundle - Ahri and Zed)       Version: 2.21
+                                          Forbidden Script (Bundle - Ahri and Zed)       Version: 2.21
 	                                  Crack & encode by BubbleLuv
 	                                  Fix + Buff Garena sever by Tungkh1711
 	
